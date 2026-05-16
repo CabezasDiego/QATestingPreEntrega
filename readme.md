@@ -16,3 +16,6 @@ funcionales de una aplicacion web.
 - Pytest html
 - Git
 
+## Ejecutar test
+pytest -v --html=reporte.html
+pytest -v
